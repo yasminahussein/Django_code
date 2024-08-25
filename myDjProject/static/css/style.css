@@ -26,9 +26,9 @@ main {
     place-content: center;
 }
 
-h1,
-p {
+h1 {
     text-align: center;
+   
 }
 
 a {
@@ -38,4 +38,10 @@ a {
 
 a:hover {
     opacity: .85;
+}
+h2{
+    font-size: 80%; 
+}
+p{
+    font-size: 60%;
 }
